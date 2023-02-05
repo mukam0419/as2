@@ -1,0 +1,9 @@
+@font-face {
+    font-family: "Mukta-regular";
+    src: url(Mukta-Regular.ttf) format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+.a {
+    font-family: "Mukta-regular";
+}
